@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student · Full Stack Developer · Tech@Costa Rica</h3>
 
 <p align="center">
-  <i>✨ <a href="https://princesakaguya.github.io/Portafolio/" target="_blank">Portfolio</a></i>
+  <i> <a href="https://princesakaguya.github.io/Portafolio/" target="_blank">Portfolio</a></i>
 </p>
 
 ---
@@ -12,7 +12,6 @@
 ### Currently Learning
   
 - Growing interest in **AI** & **software security**
-- Testing (Cypress, SonarQube)  
 
 
  **Tech Stack**
